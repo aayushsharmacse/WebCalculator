@@ -2,7 +2,7 @@
 Hello everyone, welcome to my calculator. I have made it using HTML, CSS, JavaScript.This happens to be my first project on github and I am very exicted to share it on github.
 I still do not know much about github features but I am exploring them thus please wish me luck ✌️!
 
-Now accually I do not have much words nor this simple project as claculator needs much explaination but since this is my first project that I am uploading on github I tried to write long.
+Now actually I do not have much words nor this simple project as calculator needs much explaination but since this is my first project that I am uploading on github I tried to write long.
 
 # What is a calculator?
 Wikipedia describes an electronic calculator as typically a portable electronic device used to perform calculations, ranging from basic arithmetic to complex mathematics.
