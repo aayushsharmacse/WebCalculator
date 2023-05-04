@@ -73,7 +73,7 @@ h1{
     color:greenyellow;
     background-color: rgb(61, 179, 209);
 }
-@media only screen and (max-width: 4500px) {
+@media only screen and (max-width: 450px) {
   .container
 {
     width:80%;
