@@ -15,7 +15,7 @@ h1{
     position:relative;
     border:1px solid red;
     height:400px;
-    width:90%;
+    width:400px;
     overflow: hidden;
 }
 .container {
@@ -72,4 +72,10 @@ h1{
 {
     color:greenyellow;
     background-color: rgb(61, 179, 209);
+}
+@media only screen and (max-width: 4500px) {
+  .container
+{
+    width:80%;
+}
 }
