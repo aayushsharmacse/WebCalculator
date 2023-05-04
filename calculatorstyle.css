@@ -15,7 +15,7 @@ h1{
     position:relative;
     border:1px solid red;
     height:400px;
-    width:400px;
+    width:90%;
     overflow: hidden;
 }
 .container {
@@ -57,4 +57,19 @@ h1{
     align-items: center;
     justify-content: center;
 
+}
+.element:hover
+{
+    color:blue;
+    background-color: rgb(59, 204, 59);
+}
+.elementequalto:hover
+{
+    color:yellow;
+    background-color: rgb(184, 39, 39);
+}
+.elementclear:hover
+{
+    color:greenyellow;
+    background-color: rgb(61, 179, 209);
 }
